@@ -20,3 +20,6 @@ Cada venta genera una factura electrónica que incluye información del cliente,
 
 ## Inventario:
 El inventario debe actualizarse con cada venta y cada reabastecimiento de productos por parte de los proveedores. Se necesita llevar un registro de las existencias de cada producto y gestionar el inventario de productos físicos y digitales.
+
+![image](https://github.com/user-attachments/assets/87ccb23e-40c9-4a73-89ea-2f1efe22e408)
+
