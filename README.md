@@ -1,4 +1,4 @@
-# Caso Práctico: Modelamiento de Datos Relacionales para Plataforma de Ventas, Inventario y Facturación Electrónica de Videojuegos
+👨‍💻 # Caso Práctico: Modelamiento de Datos Relacionales para Plataforma de Ventas, Inventario y Facturación Electrónica de Videojuegos 👨‍💻
 ## Contexto:
 Una tienda online especializada en videojuegos y accesorios relacionados desea gestionar sus ventas, controlar su inventario y emitir facturas electrónicas para sus clientes. Ofrecen productos como juegos, consolas, accesorios, y contenido digital, y necesitan un sistema que permita registrar las ventas, gestionar su inventario y emitir facturas electrónicas de manera eficiente.
 
